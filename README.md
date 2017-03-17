@@ -1,4 +1,4 @@
-   使用redis最缓存，我们最常用的场景就是有一个对象，对象里面存在很多键值对，所以redis里面的hash类型就特别适合做缓存,下面我就一个小例子来说明redis如何使用redis最缓存的。     ----->[github地址](https://github.com/TimLiu1/stydyRedis)
+   使用redis最缓存，我们最常用的场景就是有一个对象，对象里面存在很多键值对，所以redis里面的hash类型就特别适合做缓存,下面我就一个小例子来说明redis如何使用redis最缓存的。     [----->原文地址](http://www.lzukuan.cn/blog#/index)
 	 
 安装redis
 
